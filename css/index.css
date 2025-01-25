@@ -7,10 +7,20 @@ p{
 }
 #header{
     text-align: center;
-    width: 60%;
-    float: top;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 9;
+}
+#menu{
+    float: left;
+}
+#content{
+    float: right;
 }
 #footer{
     text-align: center;
     width: 60%;
+    position: absolute;
+    bottom: 0;
 }
