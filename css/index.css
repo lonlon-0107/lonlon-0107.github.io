@@ -15,7 +15,6 @@ body
     padding-bottom: 5%;
 }
 #header{
-    text-align: center;
     width: 100%;
     position: relative;
 }
@@ -31,8 +30,7 @@ body
     float: right;
     background-color: green;
     min-height: 100%;
-    margin-left: 10%;
-    margin: 2%;
+    margin: 2% 2% 2% 2%;
 }
 #footer{
     width: 100%;
