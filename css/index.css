@@ -20,16 +20,19 @@ body
     position: relative;
 }
 #menu{
-    width: 35%;
+    width: 21%;
     float: left;
     background-color: aqua;
     min-height: 100%;
+    margin: 2%;
 }
 #content{
-    width: 65%;
+    width: 61%;
     float: right;
     background-color: green;
     min-height: 100%;
+    margin-left: 10%;
+    margin: 2%;
 }
 #footer{
     width: 100%;
