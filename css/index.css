@@ -2,7 +2,6 @@ p{
     color: aliceblue;
 }
 #container{
-    position: relative;
     width: 100%;
     background-color: rgb(26, 26, 26);
     padding: 20px;
@@ -10,21 +9,7 @@ p{
 #header{
     text-align: center;
     width: 100%;
-    position: absolute;
-    top: 0;
-    z-index: 9;
-}
-#menu{
-    position: absolute;
-    left: 0;
-}
-#content{
-    position: absolute;
-    right: 0;
-}
-#footer{
-    text-align: center;
-    width: 60%;
-    position: absolute;
-    bottom: 0;
+    height: 60px;
+    position: relative;
+    top: 10px;
 }
