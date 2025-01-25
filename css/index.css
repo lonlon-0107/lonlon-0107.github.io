@@ -2,21 +2,25 @@ p{
     color: aliceblue;
 }
 #container{
+    position: relative;
     width: 100%;
     background-color: rgb(26, 26, 26);
+    padding: 20px;
 }
 #header{
     text-align: center;
     width: 100%;
-    position: fixed;
+    position: absolute;
     top: 0;
     z-index: 9;
 }
 #menu{
-    float: left;
+    position: absolute;
+    left: 0;
 }
 #content{
-    float: right;
+    position: absolute;
+    right: 0;
 }
 #footer{
     text-align: center;
