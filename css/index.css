@@ -4,7 +4,9 @@ p{
 span{
     color: aliceblue;
 }
-#container{
+body
+{
+    min-height: 100%;
     width: 100%;
     background-color: rgb(26, 26, 26);
     padding-left: 3%;
