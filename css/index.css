@@ -1,5 +1,5 @@
 p{
-    background-color: aqua;
+    color: aliceblue;
 }
 #container{
     width: 100%;
@@ -9,4 +9,8 @@ p{
     text-align: center;
     width: 60%;
     float: top;
+}
+#footer{
+    text-align: center;
+    width: 60%;
 }
