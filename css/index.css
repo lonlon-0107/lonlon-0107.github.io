@@ -4,7 +4,7 @@ p{
 #container{
     width: 100%;
     background-color: rgb(26, 26, 26);
-    padding: 20px;
+    padding:5% 3%;
 }
 #header{
     text-align: center;
@@ -12,4 +12,14 @@ p{
     height: 60px;
     position: relative;
     top: 10px;
+}
+#menu{
+    width: 30%;
+    float: left;
+    background-color: aqua;
+}
+#content{
+    width: 60%;
+    float: right;
+    background-color: green;
 }
