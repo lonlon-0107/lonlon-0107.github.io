@@ -25,6 +25,8 @@ aside{
 
 section{
     width: 70%;
+    position: relative;
+    right: 0;
 }
 
 p{
