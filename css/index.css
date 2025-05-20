@@ -10,7 +10,7 @@ header{
     position: sticky;
     background-color: blueviolet;
     width: 100%;
-    padding: 15px;
+    padding: 0px 15px 0px 15px;
     height: 32px;
 }
 .container{
