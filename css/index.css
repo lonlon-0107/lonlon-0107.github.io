@@ -7,7 +7,7 @@ body{
 }
 
 header{
-    position: fixed;
+    position: sticky;
     background-color: blueviolet;
     width: 100%;
     padding: 15px;
@@ -19,7 +19,7 @@ header{
 }
 aside{
     width: 30%;
-    position: absolute;
+    position: sticky;
     left: 0;
 }
 
