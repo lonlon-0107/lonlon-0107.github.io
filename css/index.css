@@ -1,9 +1,17 @@
 body{
     background-color: rgb(255, 255, 255);
-    width: 200vw;
+    width: 100vw;
     margin: 0;
     border: 0;
     padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
 }
 
 header{
@@ -13,20 +21,19 @@ header{
     padding: 0px 15px 0px 15px;
     height: 32px;
 }
-.container{
-    width: 100%;
-    position: relative;
-}
+
 aside{
     width: 30%;
     position: sticky;
     left: 0;
+    background-color: aqua;
 }
 
 section{
     width: 70%;
     position: relative;
     right: 0;
+    background-color: blue;
 }
 
 p{
