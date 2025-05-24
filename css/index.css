@@ -31,8 +31,7 @@ header{
 }
 
 #header_icon{
-    height: 80%;
-    padding: 10% 0 10% 0;
+    height: 100%;
 }
 
 .header_nav_container{
