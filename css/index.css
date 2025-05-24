@@ -15,11 +15,18 @@ body{
 }
 
 header{
+    display: flex;
+    flex-direction: row;
     position: sticky;
     background-color: blueviolet;
     width: 100%;
     padding: 0px 15px 0px 15px;
     height: 100px;
+}
+
+#header_icon{
+    height: 80%;
+    margin: 10% 0 10% 0;
 }
 
 aside{
