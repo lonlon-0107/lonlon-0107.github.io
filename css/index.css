@@ -45,14 +45,16 @@ header{
 }
 
 aside{
-    width: 30%;
+    width: 15%;
     position: sticky;
     background-color: aqua;
+    padding: 0 2rem 0 2rem;
 }
 
 section{
-    width: 70%;
+    width: 85%;
     background-color: blue;
+    padding: 0 5rem 0 5rem;
 }
 
 p{
