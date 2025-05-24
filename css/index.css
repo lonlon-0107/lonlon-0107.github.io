@@ -71,6 +71,16 @@ footer{
     width: 100%;
     min-height: 10%;
 }
+
+#about_me{
+    display:flex;
+    flex-direction: column;
+}
+
+.social_nav{
+    display: flex;
+    flex-direction: row;
+}
 p{
     font-style: normal;
 }
