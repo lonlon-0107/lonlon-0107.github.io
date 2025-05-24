@@ -20,6 +20,7 @@ body{
 
 header{
     position: sticky;
+    top: 0;
     background-color: rgb(20, 98, 255);
     width: 100%;
     height: 6rem;
@@ -90,4 +91,8 @@ p{
 }
 .height_bar{
     margin: 15px 0 0 0;
+}
+
+.icon{
+    width: 30px;
 }
