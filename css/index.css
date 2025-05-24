@@ -1,6 +1,7 @@
 body{
     background-color: rgb(130, 207, 255);
     width: 100%;
+    min-height: 100vh;
     margin: 0;
     border: 0;
     padding: 0;
@@ -68,6 +69,7 @@ footer{
     align-items: center;
     justify-content: center;
     width: 100%;
+    min-height: 10%;
 }
 p{
     font-style: normal;
