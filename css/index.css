@@ -19,20 +19,17 @@ header{
     background-color: blueviolet;
     width: 100%;
     padding: 0px 15px 0px 15px;
-    height: 32px;
+    height: 100px;
 }
 
 aside{
     width: 30%;
     position: sticky;
-    left: 0;
     background-color: aqua;
 }
 
 section{
     width: 70%;
-    position: relative;
-    right: 0;
     background-color: blue;
 }
 
