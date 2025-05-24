@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(130, 207, 255);
     width: 100%;
     margin: 0;
     border: 0;
@@ -9,7 +9,9 @@ body{
 }
 
 .main_wrapper{
-    width: 100%;
+    background-color: white;
+    width: 80%;
+    padding: 0 10%;
     display: flex;
     flex-direction: row;
 }
